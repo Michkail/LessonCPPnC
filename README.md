@@ -10,5 +10,5 @@ graph LR
     D -- Yes --> F[Don't do shit, keep going] --> E[Debugging]
     E --> G{Does it work?}
     G -- No --> H[Read Documentation, dude] --> E
-    G --> C
+    G -- Yes --> C
 ```
