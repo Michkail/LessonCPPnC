@@ -1,0 +1,3 @@
+/Users/devpyhton/Documents/EnvsTest/LessonCPPnC/cmake-build-debug/CMakeFiles/LessonCPPnC.dir
+/Users/devpyhton/Documents/EnvsTest/LessonCPPnC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/devpyhton/Documents/EnvsTest/LessonCPPnC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
