@@ -1,4 +1,4 @@
-## Learning Flow
+## Dinosaurs Language Learning Flow
 
 ```mermaid
 graph LR
